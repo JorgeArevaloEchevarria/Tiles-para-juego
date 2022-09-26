@@ -1,0 +1,24 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"BG",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.3.3",
+ "tileheight":750,
+ "tiles":[
+        {
+         "id":0,
+         "image":"..\/img\/BG.png",
+         "imageheight":750,
+         "imagewidth":1000
+        }],
+ "tilewidth":1000,
+ "type":"tileset",
+ "version":1.2
+}

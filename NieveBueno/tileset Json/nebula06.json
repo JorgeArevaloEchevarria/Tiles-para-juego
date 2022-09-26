@@ -1,0 +1,24 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"nebula06",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.3.3",
+ "tileheight":2560,
+ "tiles":[
+        {
+         "id":0,
+         "image":"..\/img\/BG\/NebulasBuenas\/nebula06.png",
+         "imageheight":2560,
+         "imagewidth":5120
+        }],
+ "tilewidth":5120,
+ "type":"tileset",
+ "version":1.2
+}

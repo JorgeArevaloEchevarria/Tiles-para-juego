@@ -1,0 +1,24 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"BackgroundBueno",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.3.3",
+ "tileheight":1280,
+ "tiles":[
+        {
+         "id":0,
+         "image":"..\/img\/BackgroundBueno.png",
+         "imageheight":1280,
+         "imagewidth":2276
+        }],
+ "tilewidth":2276,
+ "type":"tileset",
+ "version":1.2
+}
